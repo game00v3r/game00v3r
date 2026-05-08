@@ -14,7 +14,7 @@ I like turning repeated network operations into clean tools, especially when the
 - **Routing & Switching:** OSPF, BGP, EIGRP, MPLS, VLAN/STP, HSRP/VRRP
 - **SDN:** Cisco DNA Center, SD-Access, Cisco (Viptela) SD-WAN
 - **Automation:** Python, REST APIs, CSV-driven workflows
-- **Tools:** Wireshark, NMAP, Postman, 
+- **Tools:** Wireshark, NMAP, Postman
 
 ---
 
@@ -45,12 +45,13 @@ Web tooling for Cisco ACI engineers:
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
 ## Connect
 
-- GitHub: [@game00v3r](https://github.com/game00v3r)
-- LinkedIn: [andi-bintang](https://www.linkedin.com/in/andi-bintang)
-- Instagram : (https://www.instagram.com/bntang___)
+[![GitHub](https://img.shields.io/badge/GitHub-game00v3r-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/game00v3r)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-andi--bintang-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andi-bintang)
+[![Instagram](https://img.shields.io/badge/Instagram-bntang___-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bntang___)
