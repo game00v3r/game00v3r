@@ -12,10 +12,9 @@ I like turning repeated network operations into clean tools, especially when the
 
 - **Cisco Data Center:** ACI, NX-OS, Nexus Dashboard, Multi-Site, VXLAN/EVPN
 - **Routing & Switching:** OSPF, BGP, EIGRP, MPLS, VLAN/STP, HSRP/VRRP
-- **SDN & Enterprise:** Cisco DNA Center, SD-Access, Catalyst, ISR/ASR, Nexus
+- **SDN:** Cisco DNA Center, SD-Access, SD-WAN Viptela
 - **Automation:** Python, REST APIs, CSV-driven workflows
-- **Operations:** backup automation, health checks, endpoint lookup, rollback planning
-- **Troubleshooting:** Wireshark, NMAP, Postman, SPAN, NetFlow, SolarWinds, APIC/NX-OS evidence
+- **Tools:** Wireshark, NMAP, Postman, 
 
 ---
 
@@ -54,3 +53,4 @@ Web tooling for Cisco ACI engineers:
 
 - GitHub: [@game00v3r](https://github.com/game00v3r)
 - LinkedIn: [andi-bintang](https://www.linkedin.com/in/andi-bintang)
+- Instagram : (https://www.instagram.com/bntang___)
