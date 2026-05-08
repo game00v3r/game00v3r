@@ -1,18 +1,66 @@
-# Hey, Bintang here ⭐
+# Hey, Bintang here
 
-Just a GenZ tech enthusiast who loves exploring and nerding out over new stuff — especially in IT Data Center land like Cloud, Virtualization, SDN, Server & Network Security. I'm big on teamwork but also perfectly happy flying solo when the mission fits my vibe.
+**Network Engineer | Dual CCNP | Data Center, SDN, and Network Automation**
 
-Lifetime learner at heart. I enjoy diving deep into complex topics, leading projects, thinking critically, and staying cool under pressure. Oh, and I love sharing what I know — teaching and creating training content is genuinely fun for me.
+I build and operate network infrastructure with a strong focus on Cisco data center, SDN, and automation. My work sits close to real production networks: ACI fabrics, routing and switching, operational health checks, endpoint discovery, backup workflows, and tooling that helps engineers move faster without losing control.
 
-## 🔧 Tech Jams
+I like turning repeated network operations into clean tools, especially when the result is something another engineer can actually use during implementation, troubleshooting, migration, or rollback.
 
-- **Routing & Switching:** OSPF, BGP, EIGRP, MPLS, VXLAN, EVPN
-- **Data Center:** Cisco ACI, NX-OS, Nexus Dashboard, Multi-Site Fabric
-- **SDN:** Cisco DNA Center, SD-Access, Cisco ACI
-- **Platforms:** Cisco Catalyst, ISR/ASR Routers, Nexus Switches
-- **Tools:** Wireshark, NMAP, PostMan
+---
 
-## 📫 Wanna chat?
+## What I Work On
+
+- **Cisco Data Center:** ACI, NX-OS, Nexus Dashboard, Multi-Site, VXLAN/EVPN
+- **Routing & Switching:** OSPF, BGP, EIGRP, MPLS, VLAN/STP, HSRP/VRRP
+- **SDN & Enterprise:** Cisco DNA Center, SD-Access, Catalyst, ISR/ASR, Nexus
+- **Automation:** Python, Typer CLI, REST APIs, Next.js tools, CSV-driven workflows
+- **Operations:** backup automation, health checks, endpoint lookup, rollback planning
+- **Troubleshooting:** Wireshark, NMAP, Postman, SPAN, NetFlow, SolarWinds, APIC/NX-OS evidence
+
+---
+
+## Current Focus
+
+### Netroku CLI
+
+Network automation CLI for operational workflows:
+
+- BSI-style backup orchestration across DC, Head Office, Branch, and APIC targets
+- Health checks for legacy and ACI environments
+- Endpoint, interface, and PM report generation
+- Branch rollout/rollback status checks with inconsistent-state detection
+
+### Netroku ACI
+
+Web tooling for Cisco ACI engineers:
+
+- CSV-driven bulk provisioning
+- Static port and interface selector deployment
+- Bridge Domain L2/L3 deployment and rollback
+- APIC session-aware validation before changes are pushed
+
+---
+
+## Tech Stack
+
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## GitHub Snapshot
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=game00v3r&show_icons=true&theme=github_dark&hide_border=true)
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=game00v3r&layout=compact&theme=github_dark&hide_border=true)
+
+---
+
+## Connect
 
 - GitHub: [@game00v3r](https://github.com/game00v3r)
-- LinkedIn: [andi-bintang](https://linkedin.com/in/andi-bintang-82a77523a)
+- LinkedIn: [andi-bintang](https://www.linkedin.com/in/andi-bintang)
