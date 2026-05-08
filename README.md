@@ -12,7 +12,7 @@ I like turning repeated network operations into clean tools, especially when the
 
 - **Cisco Data Center:** ACI, NX-OS, Nexus Dashboard, Multi-Site, VXLAN/EVPN
 - **Routing & Switching:** OSPF, BGP, EIGRP, MPLS, VLAN/STP, HSRP/VRRP
-- **SDN:** Cisco DNA Center, SD-Access, SD-WAN Viptela
+- **SDN:** Cisco DNA Center, SD-Access, Cisco (Viptela) SD-WAN
 - **Automation:** Python, REST APIs, CSV-driven workflows
 - **Tools:** Wireshark, NMAP, Postman, 
 
