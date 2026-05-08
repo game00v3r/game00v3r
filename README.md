@@ -24,16 +24,17 @@ I like turning repeated network operations into clean tools, especially when the
 
 Network automation CLI for operational workflows:
 
-- BSI-style backup orchestration across DC, Head Office, Branch, and APIC targets
+- backup orchestration across DC, Head Office, Branch, and APIC targets
 - Health checks for legacy and ACI environments
 - Endpoint, interface, and PM report generation
 - Branch rollout/rollback status checks with inconsistent-state detection
+- Also the Tools are integrated with WebEx
 
 ### Netroku ACI
 
 Web tooling for Cisco ACI engineers:
 
-(similar to PostMan but enhanced version with pre-validation)
+(similar to PostMan but enhanced version with pre-validation and FREE)
 
 - CSV-driven bulk provisioning
 - Static port and interface selector deployment
