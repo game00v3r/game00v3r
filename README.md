@@ -50,14 +50,6 @@ Web tooling for Cisco ACI engineers:
 
 ---
 
-## GitHub Snapshot
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=game00v3r&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=game00v3r&layout=compact&theme=github_dark&hide_border=true)
-
----
-
 ## Connect
 
 - GitHub: [@game00v3r](https://github.com/game00v3r)
