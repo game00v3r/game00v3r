@@ -1,6 +1,6 @@
 # Hey, Bintang here
 
-**Network Engineer | Dual CCNP | Data Center, SDN, and Network Automation**
+**Network Engineer | Data Center, SDN, and Network Automation**
 
 I build and operate network infrastructure with a strong focus on Cisco data center, SDN, and automation. My work sits close to real production networks: ACI fabrics, routing and switching, operational health checks, endpoint discovery, backup workflows, and tooling that helps engineers move faster without losing control.
 
@@ -13,7 +13,7 @@ I like turning repeated network operations into clean tools, especially when the
 - **Cisco Data Center:** ACI, NX-OS, Nexus Dashboard, Multi-Site, VXLAN/EVPN
 - **Routing & Switching:** OSPF, BGP, EIGRP, MPLS, VLAN/STP, HSRP/VRRP
 - **SDN & Enterprise:** Cisco DNA Center, SD-Access, Catalyst, ISR/ASR, Nexus
-- **Automation:** Python, Typer CLI, REST APIs, Next.js tools, CSV-driven workflows
+- **Automation:** Python, REST APIs, CSV-driven workflows
 - **Operations:** backup automation, health checks, endpoint lookup, rollback planning
 - **Troubleshooting:** Wireshark, NMAP, Postman, SPAN, NetFlow, SolarWinds, APIC/NX-OS evidence
 
@@ -45,8 +45,6 @@ Web tooling for Cisco ACI engineers:
 
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
