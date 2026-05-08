@@ -18,7 +18,7 @@ I like turning repeated network operations into clean tools, especially when the
 
 ---
 
-## Current Focus
+## Net-Auto Project
 
 ### Netroku CLI
 
@@ -32,10 +32,12 @@ Network automation CLI for operational workflows:
 ### Netroku ACI
 
 Web tooling for Cisco ACI engineers:
+(similar to PostMan but enhanced version with pre-validation)
 
 - CSV-driven bulk provisioning
 - Static port and interface selector deployment
 - Bridge Domain L2/L3 deployment and rollback
+- EPG w/o Consumed/Provided Contract deployment and rollback
 - APIC session-aware validation before changes are pushed
 
 ---
