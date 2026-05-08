@@ -1,8 +1,10 @@
-# 👋 Hi, I'm Andi Bintang
+# Hey hey, Bintang here ⭐
 
-Network Engineer with dual CCNP (Enterprise & Data Center). Currently at PT. Mastersystem Infotama, serving as Standby Network Engineer for Bank Syariah Indonesia (BSI).
+Just a GenZ tech enthusiast who loves exploring and nerding out over new stuff — especially in IT Data Center land like Cloud, Virtualization, SDN, Server & Network Security. I'm big on teamwork but also perfectly happy flying solo when the mission fits my vibe.
 
-## 🔧 Expertise
+Lifetime learner at heart. I enjoy diving deep into complex topics, leading projects, thinking critically, and staying cool under pressure. Oh, and I love sharing what I know — teaching and creating training content is genuinely fun for me.
+
+## 🔧 Tech Jams
 
 - **Routing & Switching:** OSPF, BGP, EIGRP, MPLS, VXLAN, EVPN
 - **Data Center:** Cisco ACI, NX-OS, Nexus Dashboard, Multi-Site Fabric
@@ -10,7 +12,7 @@ Network Engineer with dual CCNP (Enterprise & Data Center). Currently at PT. Mas
 - **Platforms:** Cisco Catalyst, ISR/ASR Routers, Nexus Switches
 - **Tools:** SolarWinds, NetFlow, SPAN, Wireshark
 
-## 📫 Let's connect
+## 📫 Wanna chat?
 
 - GitHub: [@game00v3r](https://github.com/game00v3r)
 - LinkedIn: [andi-bintang](https://linkedin.com/in/andi-bintang-82a77523a)
