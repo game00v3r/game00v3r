@@ -10,7 +10,7 @@ Lifetime learner at heart. I enjoy diving deep into complex topics, leading proj
 - **Data Center:** Cisco ACI, NX-OS, Nexus Dashboard, Multi-Site Fabric
 - **SDN:** Cisco DNA Center, SD-Access, Cisco ACI
 - **Platforms:** Cisco Catalyst, ISR/ASR Routers, Nexus Switches
-- **Tools:** SolarWinds, NetFlow, SPAN, Wireshark
+- **Tools:** Wireshark
 
 ## 📫 Wanna chat?
 
