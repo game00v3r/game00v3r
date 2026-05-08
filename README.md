@@ -1,15 +1,14 @@
-# 👋 Hi, I'm GameOOver
+# 👋 Hi, I'm Andi Bintang
 
-I'm a developer passionate about building and learning new things.
+Lead Mobile Engineer at Chup Online. Previously Mobile Engineer at Techno's Studio and Freelance Software Engineer. Based in Jakarta, Indonesia.
 
 ## 🔧 Tech Stack
 
-- **Languages:** JavaScript, TypeScript, Python, Go
-- **Frontend:** React, Next.js, Tailwind CSS
-- **Backend:** Node.js, Express, FastAPI
-- **Tools:** Git, Docker, Linux, Neovim
+- **Mobile:** Swift, Kotlin, React Native, Flutter, Android (Jetpack Compose)
+- **Cross-platform:** iOS & Android development
+- **Tools:** Git, Docker, Linux, Agile
 
-## 📫 Reach me
+## 📫 Let's connect
 
-- Email: ambintangf@gmail.com
 - GitHub: [@game00v3r](https://github.com/game00v3r)
+- LinkedIn: [andi-bintang](https://linkedin.com/in/andi-bintang)
