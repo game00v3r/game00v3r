@@ -1,6 +1,6 @@
 # Hey, Bintang here
 
-**Network Engineer | Data Center, SDN, and Network Automation**
+**Network Engineer | Data Center, SDN, and Network Automation (VIBE CODE but w strong funda though LOL)**
 
 I build and operate network infrastructure with a strong focus on Cisco data center, SDN, and automation. My work sits close to real production networks: ACI fabrics, routing and switching, operational health checks, endpoint discovery, backup workflows, and tooling that helps engineers move faster without losing control.
 
